@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FREE CRM Application Test Automation Test Suite">
+
+    <listeners>
+        <listener class-name="com.takealot.takealotextentreport.TakeAlotExtentReport" />
+    </listeners>
+
+
+    <test name="Take Alot Simple Application">
+        <classes>
+            <class name="com.takealot.testcases.LandingPageTest"></class>
+            <class name="com.takealot.testcases.AcademicBookPageTest"></class>
+            <class name="com.takealot.testcases.NMUBooksTest"></class>
+            <class name="com.takealot.testcases.AddToCartTest"></class>
+        </classes>
+    </test>
+</suite>

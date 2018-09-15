@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41b37553-28eb-49de-8540-cd218ddce81c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GKSeleniumAssessment$C__Users_Sinawo_Jackson_Selenium_Framework_GKSeleniumAssessment_src_main_resourses_testing_xml.ic" NAME="$PROJECT_DIR$/src/main/resourses/testing.xml Coverage Results" MODIFIED="1537019556035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1301520326">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="50" />
+          <entry key="java" value="4272" />
+          <entry key="kt" value="1" />
+          <entry key="properties" value="113" />
+          <entry key="xml" value="183" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4272" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="50" />
+          <entry key="Properties" value="113" />
+          <entry key="XML" value="183" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="java" value="34" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="34" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/base/BaseConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/takealot/testcases/NMUBooksTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/takealot/testcases/AddToCartTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resourses/testing.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/pages/AddToCart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/base/BaseConfiguration.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/pages/BooksLandingPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/pages/AcademicBooksPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/pages/BooksPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/pages/LandingPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/pages/AcademicBookPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/utilities/ExtentReport.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/utilities/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/utilities/TakeAlotExtentReport.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/takealotextentreport/ExtentReportListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/takealotextentreport/TakeAlotExtentReport.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/takealot/testcases/AddToCart.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/takealot/testcases/LandingPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/pages/NMUBooks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/base/BaseConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/takealot/testcases/AcademicBookPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/takealot/testcases/AddToCartTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/takealot/pages/AddToCart.java" />
+        <option value="$PROJECT_DIR$/src/main/resourses/testing.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/takealot/testcases/NMUBooksTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="321" />
+    <option name="y" value="92" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GKSeleniumAssessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GKSeleniumAssessment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GKSeleniumAssessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GKSeleniumAssessment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GKSeleniumAssessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GKSeleniumAssessment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GKSeleniumAssessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GKSeleniumAssessment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resourses" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537021547095" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Sinawo Jackson/Selenium Framework/GKSeleniumAssessment/src/main/resourses/testing.xml">
+    <configuration name="AcademicBookPageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GKSeleniumAssessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.takealot.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.takealot.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.takealot.testcases.AcademicBookPageTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddToCartTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GKSeleniumAssessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.takealot.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.takealot.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.takealot.testcases.AddToCartTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddToCartTest.addToCartBtnTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GKSeleniumAssessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.takealot.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.takealot.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.takealot.testcases.AddToCartTest" />
+      <option name="METHOD_NAME" value="addToCartBtnTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Sinawo Jackson/Selenium Framework/GKSeleniumAssessment/src/main/resourses/testing.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GKSeleniumAssessment" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resourses/testing.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NMUBooksTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GKSeleniumAssessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.takealot.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.takealot.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.takealot.testcases.NMUBooksTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.AcademicBookPageTest" />
+      <item itemvalue="TestNG.C:/Users/Sinawo Jackson/Selenium Framework/GKSeleniumAssessment/src/main/resourses/testing.xml" />
+      <item itemvalue="TestNG.AddToCartTest" />
+      <item itemvalue="TestNG.NMUBooksTest" />
+      <item itemvalue="TestNG.AddToCartTest.addToCartBtnTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Sinawo Jackson/Selenium Framework/GKSeleniumAssessment/src/main/resourses/testing.xml" />
+        <item itemvalue="TestNG.NMUBooksTest" />
+        <item itemvalue="TestNG.AcademicBookPageTest" />
+        <item itemvalue="TestNG.AddToCartTest.addToCartBtnTest" />
+        <item itemvalue="TestNG.AddToCartTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41b37553-28eb-49de-8540-cd218ddce81c" name="Default Changelist" comment="" />
+      <created>1536754809456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536754809456</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AddToCartTest - 2018.09.15 at 15h 26m 11s.xml">
+      <configuration name="AddToCartTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddToCartTest - 2018.09.15 at 15h 37m 46s.xml">
+      <configuration name="AddToCartTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddToCartTest - 2018.09.15 at 15h 41m 10s.xml">
+      <configuration name="AddToCartTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddToCartTest - 2018.09.15 at 15h 43m 59s.xml">
+      <configuration name="AddToCartTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddToCartTest_addToCartBtnTest - 2018.09.15 at 15h 45m 50s.xml">
+      <configuration name="AddToCartTest.addToCartBtnTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddToCartTest_addToCartBtnTest - 2018.09.15 at 15h 49m 45s.xml">
+      <configuration name="AddToCartTest.addToCartBtnTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Sinawo_Jackson_Selenium_Framework_GKSeleniumAssessment_src_main_resourses_testing_xml - 2018.09.15 at 15h 55m 34s.xml">
+      <configuration name="C:/Users/Sinawo Jackson/Selenium Framework/GKSeleniumAssessment/src/main/resourses/testing.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AcademicBookPageTest - 2018.09.15 at 16h 00m 45s.xml">
+      <configuration name="AcademicBookPageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NMUBooksTest - 2018.09.15 at 16h 01m 41s.xml">
+      <configuration name="NMUBooksTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Sinawo_Jackson_Selenium_Framework_GKSeleniumAssessment_src_main_resourses_testing_xml - 2018.09.15 at 16h 07m 27s.xml">
+      <configuration name="C:/Users/Sinawo Jackson/Selenium Framework/GKSeleniumAssessment/src/main/resourses/testing.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2057101" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49926794" weight="0.36550632" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50073206" side_tool="true" weight="0.36550632" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32911393" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.329429" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/pages/BooksPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/reporting.java" />
+    <entry file="file://$PROJECT_DIR$/test-output/TakeAlotExtentReport.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/utilities/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/takealotextentreport/ExtentReportListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/takealotextentreport/TakeAlotExtentReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/takealot/testcases/LandingPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="42" column="41" lean-forward="true" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/pages/LandingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/pages/AcademicBookPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/takealot/testcases/AcademicBookPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/pages/NMUBooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/base/BaseConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/takealot/testcases/AddToCartTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resourses/testing.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/takealot/pages/AddToCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/takealot/testcases/NMUBooksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
